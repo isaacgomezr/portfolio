@@ -227,7 +227,7 @@ const LogoBox = (_emotion_styled__WEBPACK_IMPORTED_MODULE_4___default().span)`
   }
 `;
 const Logo = ()=>{
-    const footPrintImg = `/images/footprint${(0,_chakra_ui_react__WEBPACK_IMPORTED_MODULE_3__.useColorModeValue)('', '-dark')}.png`;
+    const footPrintImg = `/images/coffee${(0,_chakra_ui_react__WEBPACK_IMPORTED_MODULE_3__.useColorModeValue)('', '-dark')}.png`;
     return(/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
         href: "/",
         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {

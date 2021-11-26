@@ -112,14 +112,15 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Playing piano, {' '}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
+          <Link href="https://soundcloud.com/user-477637990" target="_blank">
           Music
           </Link>
           , {' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
+          <Link href="https://instagram.com/isaacgr06/" target="_blank">
             Photography
           </Link>
           , Mobile development
+          
         </Paragraph>
       </Section>
 
@@ -151,7 +152,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://instagram.com/isaacgr06" target="_blank">
+            <Link href="https://instagram.com/isaacgr06/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"

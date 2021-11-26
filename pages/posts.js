@@ -3,12 +3,12 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
-import thumbFishWorkflow from '../public/images/contents/youtube-fish-workflow.jpg'
-import thumbMyDeskSetup from '../public/images/contents/youtube-my-desk-setup.jpg'
-import thumb500PaidUsers from '../public/images/contents/blog-500-paid-users.jpg'
-import thumbFinancialGoal from '../public/images/contents/blog-financial-goal.png'
-import thumbHowToPriceYourself from '../public/images/contents/blog-how-to-price-yourself.jpg'
-import thumb50xFaster from '../public/images/contents/youtube-50x-faster.jpg'
+import blog_1 from '../public/images/contents/programatuvida_blog_1.png'
+import blog_2 from '../public/images/contents/programatuvida_blog_2.png'
+import blog_3 from '../public/images/contents/programatuvida_blog_3.png'
+import blog_4 from '../public/images/contents/programatuvida_blog_4.png'
+import blog_5 from '../public/images/contents/programatuvida_blog_5.png'
+import blog_6 from '../public/images/contents/programatuvida_blog_6.png'
 
 const Posts = () => (
   <Layout title="Posts">
@@ -20,14 +20,14 @@ const Posts = () => (
       <Section delay={0.1}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            title="My Fish workflow"
-            thumbnail={thumbFishWorkflow}
-            href="https://www.youtube.com/watch?v=KKxhf50FIPI"
+            title="API Node JS"
+            thumbnail={blog_1}
+            href="https://programatuvida.com/crear-api-nodejs"
           />
           <GridItem
-            title="My desk setup (Late 2020)"
-            thumbnail={thumbMyDeskSetup}
-            href="https://www.youtube.com/watch?v=1OFDMwDlnOE"
+            title="Crear un blog con angular"
+            thumbnail={blog_2}
+            href="https://programatuvida.com/crea-un-blog-con-angular-y-mongodb-parte-1"
           />
         </SimpleGrid>
       </Section>
@@ -35,14 +35,14 @@ const Posts = () => (
       <Section delay={0.3}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            title="How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo"
-            thumbnail={thumb500PaidUsers}
-            href="https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820"
+            title="Crea tu primer aplicación web angular"
+            thumbnail={blog_3}
+            href="https://programatuvida.com/crea-tu-primer-aplicacion-web-angular"
           />
           <GridItem
-            title="I stopped setting a financial goal for my SaaS"
-            thumbnail={thumbFinancialGoal}
-            href="https://blog.inkdrop.app/i-stopped-setting-a-financial-goal-for-my-saas-a92c3db65506"
+            title="La mejor forma de obtener permisos Android"
+            thumbnail={blog_4}
+            href="https://programatuvida.com/la-mejor-forma-de-obtener-los-permisos-de-android"
           />
         </SimpleGrid>
       </Section>
@@ -50,14 +50,14 @@ const Posts = () => (
       <Section delay={0.5}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            title="How to Price Yourself as a Freelance Developer"
-            thumbnail={thumbHowToPriceYourself}
-            href="https://blog.inkdrop.app/how-to-price-yourself-as-a-freelance-developer-3453dfd59d91"
+            title="Crear App React Native - 1"
+            thumbnail={blog_5}
+            href="https://programatuvida.com/crear-primer-app-react-native-parte-1"
           />
           <GridItem
-            title="I made my React Native app 50x faster"
-            thumbnail={thumb50xFaster}
-            href="https://www.youtube.com/watch?v=vj723NlrIQc"
+            title="Crear App React Native - 2"
+            thumbnail={blog_6}
+            href="https://programatuvida.com/crear-primer-app-react-native-parte-2"
           />
         </SimpleGrid>
       </Section>
