@@ -1,0 +1,23 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.html",
+  "/posts": "pages/posts.html",
+  "/works": "pages/works.html",
+  "/works/amembo": "pages/works/amembo.html",
+  "/works/fourpainters": "pages/works/fourpainters.html",
+  "/works/freedbtagger": "pages/works/freedbtagger.html",
+  "/works/inkdrop": "pages/works/inkdrop.html",
+  "/works/menkiki": "pages/works/menkiki.html",
+  "/works/modetokyo": "pages/works/modetokyo.html",
+  "/works/pagosvalle": "pages/works/pagosvalle.html",
+  "/works/pichu2": "pages/works/pichu2.html",
+  "/works/programatuvida": "pages/works/programatuvida.html",
+  "/works/prosepago": "pages/works/prosepago.html",
+  "/works/psmescolar": "pages/works/psmescolar.html",
+  "/works/reehabboost": "pages/works/reehabboost.html",
+  "/works/styly": "pages/works/styly.html",
+  "/works/walknote": "pages/works/walknote.html",
+  "/_error": "pages/_error.js"
+}
