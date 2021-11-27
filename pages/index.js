@@ -88,6 +88,17 @@ const Home = () => (
         </Box>
       </Section>
 
+      <Section delay={0.1}>
+        <Heading as="h3" variant="section-title">
+          Resume
+        </Heading>
+        <Paragraph>
+          <Link href="https://resume.io/r/bI6JyCoTu" target="_blank">
+            Link Resume
+          </Link>
+        </Paragraph>
+      </Section>
+
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
           Bio
@@ -104,16 +115,6 @@ const Home = () => (
           <BioYear>2018 to present</BioYear>
           Works at Proveedores de Servicios de Pago (Prosepago)
         </BioSection>
-      </Section>
-
-      <Section delay={0.1}>
-        <Heading as="h3" variant="section-title">
-          Resume
-        </Heading>
-        <Paragraph>
-          <Link href="https://soundcloud.com/user-477637990" target="_blank" />
-          Link resume
-        </Paragraph>
       </Section>
 
       <Section delay={0.3}>
