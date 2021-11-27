@@ -112,6 +112,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           <Link href="https://soundcloud.com/user-477637990" target="_blank" />
+          Link resume
         </Paragraph>
       </Section>
 
