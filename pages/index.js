@@ -111,9 +111,7 @@ const Home = () => (
           Resume
         </Heading>
         <Paragraph>
-          <NextLink href="https://resume.io/r/bI6JyCoTu">
-            <Link>Link resume</Link>
-          </NextLink>
+          <Link href="https://soundcloud.com/user-477637990" target="_blank" />
         </Paragraph>
       </Section>
 
@@ -124,14 +122,14 @@ const Home = () => (
         <Paragraph>
           Playing piano, {' '}
           <Link href="https://soundcloud.com/user-477637990" target="_blank">
-          Music
+            Music
           </Link>
           , {' '}
           <Link href="https://instagram.com/isaacgr06/" target="_blank">
             Photography
           </Link>
           , Mobile development
-          
+
         </Paragraph>
       </Section>
 
