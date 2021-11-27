@@ -106,6 +106,17 @@ const Home = () => (
         </BioSection>
       </Section>
 
+      <Section delay={0.1}>
+        <Heading as="h3" variant="section-title">
+          Resume
+        </Heading>
+        <Paragraph>
+          <NextLink href="https://resume.io/r/bI6JyCoTu">
+            <Link>Link resume</Link>
+          </NextLink>
+        </Paragraph>
+      </Section>
+
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           I ♥
