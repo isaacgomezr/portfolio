@@ -20,12 +20,12 @@ const Layout = ({ children, title }) => (
     <>
       {title && (
         <Head>
-          <title>{title} - Takuya Matsuyama</title>
+          <title>{title} - Isaac Gómez</title>
           <meta name="twitter:title" content={title} />
           <meta property="og:title" content={title} />
         </Head>
       )}
-      {children}
+      {'Isaac Gómez'}
 
       <GridItemStyle />
     </>
