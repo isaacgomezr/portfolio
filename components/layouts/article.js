@@ -25,7 +25,7 @@ const Layout = ({ children, title }) => (
           <meta property="og:title" content={title} />
         </Head>
       )}
-      {'Isaac Gómez'}
+      {children}
 
       <GridItemStyle />
     </>
