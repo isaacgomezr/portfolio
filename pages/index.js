@@ -72,7 +72,7 @@ const Home = () => (
           Isaac is a software developer based in Hermosillo, Sonora with a
           passion for building digital services with different approaches. He has a knack
           for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, he loves
+          way to solving real life problems with code. When not online, he loves
           hanging out with his camera. Currently, he is working for a company called{' '}
           <NextLink href="/works/inkdrop">
             <Link>Prosepago</Link>
